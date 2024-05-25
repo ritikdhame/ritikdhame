@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Open+Sans&size=25&vCenter=true&color=28F7D9&width=800&lines=Hello,+I'm+Ritik+Dhame!;Welcome+to+my+GitHub+Profile;%23DataEngineering+%23Hadoop+%23Spark+%23Kafka+%23Storm+%23Flink;%23MachineLearning+%23ScikitLearn+%23TensorFlow+%23PyTorch;%23DataAnalysis+%23Pandas+%23NumPy+%23SciPy;%23DataVisualization+%23Matplotlib+%23Seaborn+%23Plotly;%23BigData+%23Hadoop+%23Spark+%23Kafka+%23Docker+%23Flink;%23DataProcessing+%23SQL+%23AWS+%23Azure;%23CloudComputing+%23AWS+%23GCP+%23Azure;%23BusinessIntelligence+%23Tableau+%23PowerBI+%23Looker&duration=500&pause=5000">
+  <img src="https://readme-typing-svg.demolab.com?font=Open+Sans&size=25&vCenter=true&color=28F7D9&width=800&lines=Hello,+I'm+Ritik+Dhame!;Welcome+to+my+GitHub+Profile;%23DataEngineering+%23Hadoop+%23Spark+%23Kafka+%23Snowflake+%23Flink;%23MachineLearning+%23ScikitLearn+%23TensorFlow+%23PyTorch;%23DataAnalysis+%23Pandas+%23NumPy+%23SQL;%23DataVisualization+%23Matplotlib+%23Seaborn+%23Plotly;%23BigData+%23Hadoop+%23Spark+%23Kafka+%23Docker+%23Flink;%23DataProcessing+%23SQL+%23AWS+%23Azure;%23CloudComputing+%23AWS+%23GCP+%23Azure;%23BusinessIntelligence+%23Tableau+%23PowerBI+%23Looker&duration=500&pause=5000">
 </div>
 
 <p align="left">

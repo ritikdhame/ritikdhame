@@ -5,7 +5,7 @@
 <p align="left">
   <a href="mailto:ritikdhame5@gmail.com"><img src="https://img.shields.io/badge/Email-ritikdhame5%40gmail.com-%230066D6?style=flat&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/ritikdhame/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-ritikdhame-%230066D6?style=flat&logo=linkedin"></a>
-  <a href="https://www.linkedin.com/messaging/compose/?recipient=ritikdhame&body=Hi%20Ritik,%0AI%27m%20interested%20in%20requesting%20your%20resume.%20Could%20you%20please%20share%20it%20with%20me" target="_blank"><img src="https://img.shields.io/badge/Request%20Resume-%230066D6?style=flat&logo=file"></a>
+  <a href="mailto:ritikdhame5@gmail.com?subject=Request%20for%20Resume&body=Hi%20Ritik,%0A%0AI%20would%20like%20to%20request%20a%20copy%20of%20your%20resume.%0A%0ABest%20regards,%0A[Your%20Name]"><img src="https://img.shields.io/badge/Request%20Resume-%230066D6?style=flat&logo=file"></a>
 </p>
 
 

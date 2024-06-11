@@ -3,7 +3,7 @@
 </div>
 
 <p align="left">
-  <a href="mailto:ritikdhame5@gmail.com">
+  <a href="mailto:ritikdhame5@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-ritikdhame5%40gmail.com-%230066D6?style=flat&logo=gmail">
   </a>
   <a href="https://www.linkedin.com/in/ritikdhame/" target="_blank">
@@ -12,13 +12,10 @@
   <a href="https://public.tableau.com/app/profile/ritik.dhame/vizzes" target="_blank">
     <img src="https://img.shields.io/badge/Tableau-ritik.dhame-%230066D6?style=flat&logo=tableau">
   </a>
-  <a href="mailto:ritikdhame5@gmail.com?subject=Request%20for%20Resume&body=Hi%20Ritik,%0A%0AI%20would%20like%20to%20request%20a%20copy%20of%20your%20resume.%0A%0ABest%20regards,%0A[Your%20Name]">
+  <a href="https://resplendent-biscotti-0290d4.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Request%20Resume-%230066D6?style=flat&logo=file">
   </a>
 </p>
-
-
-
 
 ### About Me
 I am a data analyst with experience in data modelling, orchestration, scalable Big Data pipelines, machine learning, deep learning, and data visualization. I hold a Masters of Science in Information Systems from Syracuse University. Currently, I work at iConsult Collaborative as a Data Analyst, where I analyze data to provide insights and support business decisions. Previously, I have worked as a Business Intelligence Analyst and a Data Scientist, gaining experience in various data-related projects.

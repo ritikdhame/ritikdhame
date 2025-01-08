@@ -18,7 +18,7 @@
 </p>
 
 ### About Me
-I am a data analyst with experience in data modelling, orchestration, scalable Big Data pipelines, machine learning, deep learning, and data visualization. I hold a Masters of Science in Information Systems from Syracuse University. Currently, I work at iConsult Collaborative as a Data Analyst, where I analyze data to provide insights and support business decisions. Previously, I have worked as a Business Intelligence Analyst and a Data Scientist, gaining experience in various data-related projects.
+I am a Business Intelligence analyst with experience in data modelling, orchestration, scalable Big Data pipelines, machine learning, deep learning, and data visualization. I hold a Masters of Science in Information Systems from Syracuse University. Currently, I work at Assurant as a Business Intelligence Analyst, where I analyze data and build data infrastructure to provide insights and support business decisions. Previously, I have worked as a DataAnalyst, Business Intelligence Analyst and a Data Scientist, gaining experience in various finance, human resource, geogrpahical, marketing data-related projects.
 
 <details>
   <summary>Know More about me</summary>
